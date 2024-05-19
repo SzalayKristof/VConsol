@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VConsol": {
+      "commandName": "Project",
+      "commandLineArgs": "-InputFile \"C:\\Users\\HOME\\Documents\\Ev_vegi_dolgozat\\systemlog.csv\"\r\n"
+    }
+  }
+}
